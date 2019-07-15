@@ -14,9 +14,21 @@
 
 之后，你可以附上一段**不超过500字**的项目简介，你也可以在你的项目简介内添加1张图片。
 
-关于格式问题，可以参见 [README.md](https://raw.githubusercontent.com/hackinit/2019-projects/master/README.md) 中作为样例添加的 ruff-overheating-detector
+以下提供一段范例代码：
 
-### 通过 git submodule 的方式添加你的代码 (可选）
+```markdown
+## Ruff Over-heating Detector
+[![Dependency Status](https://david-dm.org/hackinit/ruff-overheating-detector.svg)](https://david-dm.org/hackinit/ruff-overheating-detector.svg)
+
+*THE Hack 2019 Staff - Tech Dept.*  
+成员： @yechs（[GitHub](https://github.com/yechs) | [知乎](https://example.org) | [个人网站](https://example.org)） @neyctech（[GitHub](https://github.com/neyctech)） et al.
+
+[项目网址](https://example.org) | [Demo 链接](https://example.org) | [GitHub repo](https://github.com/hackinit/ruff-overheating-detector)
+
+一个基于Ruff物联网开发套件开发的用于防止导线过热的检测器。该产品会通过温度传感器读入导线温度，并显示在连接的显示屏上。你也可以通过接入 Ruff 开发板的 Wi-Fi 网络以对数据进行远程监视。此外，当导线温度超过40摄氏度时，蜂鸣器会立即进行示警。
+```
+
+### 通过 git submodule 的方式添加你的代码（可选）
 
 如果你乐意将你的代码开源的话，你也可以通过 git submodule 的方式将你的代码链接放在本 repo 内。在 Windows 上，你将可以通过 Git Bash 运行以下代码。
 
