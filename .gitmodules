@@ -1,0 +1,3 @@
+[submodule "ruff-overheating-detector"]
+	path = ruff-overheating-detector
+	url = https://github.com/hackinit/ruff-overheating-detector.git
