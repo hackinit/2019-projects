@@ -35,7 +35,8 @@
       @聂良玉AbdielNie（[GitHub](https://github.com/AbdielNie)）  -->NLP CV  
       @李辰悦jimschenchen（[GitHub](https://github.com/jimschenchen)）-->后端   
       @顾滢佳Angela-inca（[GitHub](https://github.com/Angela-inca)）-->UI    
-      et al.
+      et al.  
+      
 [GitHub repo](https://github.com/MurphyJUAN/theHack2019nanNvdaPeiganHuobuLei)    
 
 当代学生在学习中面临几大问题：1、题海战术 2、教育资源不均衡 3、学习APP太多太杂 导致学习效率不高 教育起跑线不一样 寒门难出贵子。因此我们就这些问题开发了AItutor    
