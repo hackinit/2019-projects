@@ -31,17 +31,17 @@
 ## AItutor
 
 *男女搭配干活不累*
-成员: @阮羿寧MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）-->前端
-      @聂良玉AbdielNie（[GitHub](https://github.com/AbdielNie)）  -->NLP CV
-      @李辰悦jimschenchen（[GitHub](https://github.com/jimschenchen)）-->后端 
-      @顾滢佳Angela-inca（[GitHub](https://github.com/Angela-inca)）-->UI  
+成员: @阮羿寧MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）-->前端 <br> 
+      @聂良玉AbdielNie（[GitHub](https://github.com/AbdielNie)）  -->NLP CV  
+      @李辰悦jimschenchen（[GitHub](https://github.com/jimschenchen)）-->后端   
+      @顾滢佳Angela-inca（[GitHub](https://github.com/Angela-inca)）-->UI    
       et al.
-[GitHub repo](https://github.com/MurphyJUAN/theHack2019nanNvdaPeiganHuobuLei)  
+[GitHub repo](https://github.com/MurphyJUAN/theHack2019nanNvdaPeiganHuobuLei)    
 
-当代学生在学习中面临几大问题：1、题海战术 2、教育资源不均衡 3、学习APP太多太杂 导致学习效率不高 教育起跑线不一样 寒门难出贵子。因此我们就这些问题开发了AItutor
-AItutor是一款可以让学生根据需求进行学习，选择专业相对应的核心通识课程于感兴趣的选修通识课程，让学生不管在何时何地只要有网络 就可以学习到一样的知识。
-1、通过学生于AI tutor的互动，寻找学生的薄弱环节
-2、24小时陪伴的学习助手
+当代学生在学习中面临几大问题：1、题海战术 2、教育资源不均衡 3、学习APP太多太杂 导致学习效率不高 教育起跑线不一样 寒门难出贵子。因此我们就这些问题开发了AItutor  
+AItutor是一款可以让学生根据需求进行学习，选择专业相对应的核心通识课程于感兴趣的选修通识课程，让学生不管在何时何地只要有网络 就可以学习到一样的知识。  
+1、通过学生于AI tutor的互动，寻找学生的薄弱环节  
+2、24小时陪伴的学习助手  
 3、功能整合，学习+记录笔记+TODO list一体化
 4、对各类学习都提供帮助
 英语学习：听：通过AI tutor的分析得出听力薄弱点
